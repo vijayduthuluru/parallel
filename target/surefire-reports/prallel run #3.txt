@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: prallel run #3
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.115 s - in prallel run #3
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.173 s - in prallel run #3
